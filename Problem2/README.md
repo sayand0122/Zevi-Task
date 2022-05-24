@@ -4,7 +4,7 @@
 
 ## Clone the project:
 
-git clone 
+git clone https://github.com/sayand0122/Zevi-Task/tree/master/Problem2
 
 ## To install the dependencies 
 
