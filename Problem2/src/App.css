@@ -1,0 +1,37 @@
+.search {
+
+    height: 50px;
+    margin: 50px;
+    text-align: center;
+   }
+   
+.searchInput{
+    height:25px;
+    width: 400px;
+    border-radius: 10px;
+    border:1px solid rgb(0, 0, 0);
+}
+.searchButton{
+    height:25px;
+    width: 100px;
+    border-radius: 10px;
+    border:1px solid rgb(0, 0, 0);
+}
+/* .photos{
+    padding: 5px;
+    border-radius: 5px;
+} */
+.imgList {
+    border: 1px
+}
+.dropBlock {
+    display: inherit;
+    min-height: 200px;
+    min-width: 500px;
+    background-color: azure;
+    margin: 5px;
+}
+.dropBlocks{
+    display: initial;
+    flex-wrap: wrap;
+}
